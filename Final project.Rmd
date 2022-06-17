@@ -9,8 +9,6 @@ output: html_document
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-*   I __Vismay Chhaganbhai Lad(0794141)__, hereby state that I have not communicated with or gained information in any way from any person or resource that would violate the College’s academic integrity policies, and that all work presented is my own. In addition, I also agree not to share my work in any way, before or after submission,that would violate the College’s academic integrity policies.
-
 * RStudio 2021.09.1+372 
 * R version 4.1.1
 
